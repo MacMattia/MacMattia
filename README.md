@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MacMattia
-- 👀 I’m interested in learning Electronics to have fun and solves issues around the house.
+- 👀 I’m interested in learning Electronics to have fun and to solve issues around the house.
 - 🌱 I’m currently learning Arduino coding
 
 
